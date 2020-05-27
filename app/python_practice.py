@@ -32,7 +32,7 @@ arr = ["a","b","c","d"]
 
 print(arr[0])
 
-print(arr.count)
+print(len(arr))
 
 for letter in ["a", "b", "c", "d"]:
     print(letter)
